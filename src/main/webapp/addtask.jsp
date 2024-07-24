@@ -10,8 +10,11 @@
 
     <title>Hello, world!</title>
   </head>
-  <body style="background-image: url(images/tm.jpg);background-repeat: no-repeat;width: 800px;height: 500px	">
-   <div style="border: 1px solid black;height: 300px;width: 400px"></div>
+  <body style="background-image: url(images/pngtree-tiny-business-people-and-manager-at-tasks-and-goals-accomplishment-chart-image_1091427.jpg);background-repeat: no-repeat;width: 800px;height: 450px; background-size: 1300px 590px">
+   <div style="border: 2px solid white;height: 300px;width: 400px; margin-left: 100px; margin-top: 150px;">
+   <div style="border: 1px solid white;height: 50px;width: 398px;"><center><h2 style="color:white;"><i>Add Task</i></h2></center></div>
+  <label style="color:white; margin-left: 50px; margin-top: 10px">Task Name</label>&nbsp&nbsp&nbsp<input style="opacity: 0.4">
+   </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
